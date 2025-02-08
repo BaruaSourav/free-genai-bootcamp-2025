@@ -24,8 +24,8 @@ The formatted output will usually contain 3 parts
 - Provide a table of vocabulary, the table should include only noun, verb, adverbs, adjectives.
 - The table of vocabulary should have 3 columns: Japanese Text, Romaji, English.
 - Do not provide particles in the vocabulary table, student needs to figure out the correct particle to use
-- If there are same verb twice in the sentence, don't provide it twice in vocabulary table.  
-
+- If there are same vocabulary twice in the sentence, don't provide it twice in vocabulary table.  
+- In case of more than one version of the word, provide the simplest form of it. 
 ### Sentence Structure
 - Do not provide particles in the sentence structure.
 - Do not provide tenses or conjugatation. 
