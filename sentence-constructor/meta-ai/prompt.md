@@ -83,3 +83,7 @@ Here are examples of user input and assitant output, pay attention to the score 
     - ask clues about verb conjugation
     </assistant:output>
 </example>
+
+
+## Student Input
+Did you see the raven this morning? They were looking at our garden.
